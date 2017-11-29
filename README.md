@@ -6,7 +6,7 @@ The purpose of this assignment is to learn how to work with iteration and consta
 
 ### Problem Description
 
-This problem is inspired by the book's Problem P6.10 on page 304.
+This problem is inspired by the book's Problem P3.32 on page 131 of the Late Objects book (P6.10 on page 304 in Early Objects).
 
 You are to write an application to pre­sell a limited number of movie tickets. The simple user interface will be contained in **TicketSeller.java**.
 
