@@ -22,7 +22,7 @@ There is no code to copy for the assignment. You get to do it all! Don't forget 
 
 You'll need to create a method called `public static int processOrder(int order, int numberTickets)`. The method determines if the order size is less than 4 and less than or equal to `numberTickets`.
 
-We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **TicketSeller.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class]((http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **TicketSeller.java**. This is where your code will go. 
+We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **TicketSeller.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **TicketSeller.java**. This is where your code will go. 
 
 ### Testing Your Code
 
